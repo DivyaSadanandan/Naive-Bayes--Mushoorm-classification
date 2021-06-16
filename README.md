@@ -1,4 +1,4 @@
-# Naive-Bayes--Mushoorm-classification
+# Naive-Bayes-Mushoorm classification
 
 Problem Statement: To make a suitable machine learning algorithm to predict if 
 the mushroom is edible or poisonous (e or p) using  mushroom.csv dataset.
